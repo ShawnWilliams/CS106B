@@ -1,2 +1,2 @@
 # CS106B
-Assignments of Programming Abstraction in C++
+Assignments of Programming Abstractions in C++
